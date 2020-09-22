@@ -1,6 +1,6 @@
 # responsive_playground
 
-A new Flutter project.
+A new responsive Flutter project.
 
 ## Getting Started
 
