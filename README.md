@@ -1,6 +1,6 @@
-# Flutter: Creating responsive apps
+# Flutter: Creating Responsive Apps
 
-This repository holds everything from my Engineering Awesome Conference talk 'Flutter: Creating responsive apps'.
+This repository holds everything from my Engineering Awesome Conference talk 'Flutter: Creating Responsive Apps'.
 
 Find the video of the talk below:
 
